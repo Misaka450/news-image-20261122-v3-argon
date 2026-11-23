@@ -2,6 +2,8 @@
 
 [![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
+[![rank](https://make.fun/badge/news-image-20261122/Misaka450/news-image-20261122-v3-argon/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261122/Misaka450/news-image-20261122-v3-argon/reward.svg)](https://make.fun/bounty/news-image-20261122)
 A broadsheet front page for **Sunday 22 November 2026**: 20 dated dispatches across 7 fronts
 (Europe 5 · Middle East 4 · Asia-Pac 4 · Americas 2 · Africa 2 · Climate 1 · At Sea 2),
 every one carrying its source outlet and a CONFIRMED / REPORTED / CLAIM status tag.
